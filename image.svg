@@ -1,0 +1,10 @@
+<svg width="500" height="500">
+  <rect x="0" y="0" width="500" height="500" fill="#B3D1FF" />
+  <rect x="100" y="100" width="300" height="300" fill="#96D690" />
+  <rect x="125" y="125" width="250" height="250" fill="#FFF" />
+  <rect x="200" y="200" width="100" height="100" fill="#B3B3B3" />
+  <rect x="125" y="200" width="50" height="100" fill="#B3B3B3" />
+  <rect x="325" y="200" width="50" height="100" fill="#B3B3B3" />
+  <rect x="200" y="275" width="100" height="25" fill="#B3D1FF" />
+  <text x="220" y="292" fill="#FFF" font-size="12">Pallet Town</text>
+</svg>
